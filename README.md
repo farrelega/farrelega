@@ -27,7 +27,8 @@ An Information Systems student with a strong specialization and high enthusiasm 
 
 <br />
 
-.
+<br>
+</br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farrelega&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph" />
